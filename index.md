@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## خوش امدید به صفحه های گیت هاب
 
-You can use the [editor on GitHub](https://github.com/tmtrdeveloper/update-naghashi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+شما میتوانید با [ادیتور گیت هاب](https://github.com/tmtrdeveloper/update-naghashi/edit/gh-pages/index.md) این فایل هارا ویرایش کنید
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
